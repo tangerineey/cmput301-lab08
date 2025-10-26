@@ -1,5 +1,7 @@
 package com.example.lab8;
 
+import java.util.Objects;
+
 public class City {
 
     private String city;
